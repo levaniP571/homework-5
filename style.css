@@ -122,3 +122,52 @@
     font-size: 24px;
     color: #535353;
 }
+/* ფუტერი */
+.footer1{
+    width: 1440px;
+    background: #2A9D8F;
+    padding: 90px 130px 148px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+.img5{
+    display: inline-block;
+    width: 98px;
+    vertical-align: top;
+}
+.nav2{
+    display: inline-block;
+    margin-left: 600px;
+    vertical-align: top;
+}
+.div5{
+    display: inline-block;
+    width: 63px;
+    vertical-align: top;
+}
+.div6{
+    display: inline-block;
+    width: 153px;
+    margin-inline: 41px;
+    vertical-align: top;
+}
+.div7{
+    display: inline-block;
+    width: 148px;
+    vertical-align: top;
+}
+.h6{
+    font-size: 20px;
+    margin-bottom: 21px;
+    color: #FFFFFF;
+}
+.p6{
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.p7{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin: 8px 0;
+
+}
