@@ -57,3 +57,38 @@
     font-size: 20px;
     margin: 0 330px 52px;
 }
+/* სექცია1 */
+.section1{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 80px 130px;
+}
+.img1{
+    width: 600px;
+    display: inline-block;
+    margin-right: 120px;
+}
+
+.div1{
+    display: inline-block;
+    vertical-align: top;
+}
+.h2{
+    width: 450px;
+    color:  #272727;
+    font-size: 32px;
+    
+}
+.p4{
+    width: 450px;
+    margin-top: 27px;
+    margin-bottom: 45px;
+    font-size: 18px;
+}
+.butt2{
+    width: 120px;
+    background: #2A9D8F;
+    padding: 11px 16px;
+    color: #FFFFFF;
+    font-size: 16px;
+}
