@@ -1,0 +1,59 @@
+/* ჰედერი */
+.head1 {
+    width: 1440px;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+    margin: 0px auto;
+    
+}
+
+.logo1 {
+    width: 46px;
+    vertical-align: middle;
+
+}
+
+.nav1 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-inline: 340px;
+}
+
+.p1 {
+    font-size: 20px;
+    color: #FFFFFF;
+    display: inline-block;
+}
+
+.p2 {
+    font-size: 20px;
+    color: #FFFFFF;
+    display: inline-block;
+    margin-inline: 51px;
+
+
+}
+
+.butt1 {
+    width: 147px;
+    vertical-align: middle;
+    background: #FFFFFF;
+    padding: 8px 16px;
+    color: #2A9D8F;
+}
+/* არტიკლი */
+.art1{
+    width: 1440px;
+    margin: 200px auto 0; 
+
+}
+.h1{
+    width: 500px;
+    font-size: 48px;
+    margin: 0 548px 60px;
+}
+.p3{
+    width: 780px;
+    font-size: 20px;
+    margin: 0 330px 52px;
+}
