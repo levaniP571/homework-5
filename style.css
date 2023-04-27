@@ -92,3 +92,33 @@
     color: #FFFFFF;
     font-size: 16px;
 }
+
+/* სექცია2 */
+.section2{
+    width: 1440px;
+    margin: 0 auto;
+    margin-top: 200px;
+    
+}
+.h3{
+    font-size: 48px;
+    color: #4D4D4D;
+    margin-bottom: 54px;
+    margin-left: 490px;
+
+}
+.div2{
+    width: 580px;
+    display: inline-block;
+    margin-left: 130px;
+    margin-right: 20px;
+}
+.div3{
+    width: 580px;
+    display: inline-block;
+}
+.p5{
+    margin-top: 32px;
+    font-size: 24px;
+    color: #535353;
+}
